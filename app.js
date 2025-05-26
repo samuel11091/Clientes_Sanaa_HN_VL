@@ -1,0 +1,1 @@
+// Aquí iría el código JS (React/Vite compilado)
